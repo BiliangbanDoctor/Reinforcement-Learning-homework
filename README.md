@@ -1,2 +1,2 @@
 # Reinforcement-Learning-homework
-These are codes I written for my class Reinforcement Learning
+These are codes I wrote for my class: Reinforcement Learning
